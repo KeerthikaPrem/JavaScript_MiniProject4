@@ -1,0 +1,35 @@
+body{
+  background:yellow;
+  font-family: "HelveticaNeue-light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+  height:100%;
+}
+
+.wrapper{
+  width: 800px;
+  margin: 30px auto;
+  color: white;
+  text-align: center;
+}
+#start-button,#stop-button,#reset-button{
+  background-color: yellow;
+  color: white;
+  border-color: white;
+  padding: 10px 30px 10px 30px;
+  border-radius: 5px;
+  font-size: 20px;
+  
+}
+
+#start-button:hover{
+  background-color: white;
+  color: yellow;
+}
+
+#stop-button:hover{
+  background-color: white;
+  color: yellow;
+}
+#reset-button:hover{
+  background-color: white;
+  color: yellow;
+}
